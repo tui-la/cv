@@ -1,0 +1,50 @@
+body {
+  background-color: #596e79;
+  color: #f0ece2;
+  font-family: georgia;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #888888;
+  border-width: 7px;
+  width: 4%;
+}
+
+img {
+  height: 200px;
+}
+
+h1 {
+  color: #c7b198;
+  font-family: "times new roman";
+}
+
+h3 {
+  color: #dfd3c3;
+  font-family: "times new roman";
+}
+
+th {
+  text-align: left;
+}
+
+a:link{
+  background-color: #596e79;
+  color: white;
+  text-decoration: none;
+}
+
+a:active{
+  color: white;
+}
+
+a:visited{
+  color: white;
+}
+
+a:hover {
+    background-color: #c7b198;
+    color: white;
+}
